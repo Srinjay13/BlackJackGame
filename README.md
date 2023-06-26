@@ -1,16 +1,8 @@
-# title(){return this.options.title||this.options.name}
+Blackjack Pro: The Ultimate Card Game Experience
 
-## Supporting Scrimba
+Whether you're a blackjack aficionado or simply looking for some thrilling entertainment, "Blackjack Pro" is the destination for you. Step into the world of high stakes, intense strategy, and endless excitement. 
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+"Blackjack Pro" boasts a comprehensive range of features that make it stand out from the crowd. From the moment you enter the site, you'll be greeted by stunning visuals and smooth animations, creating an engaging atmosphere that keeps you hooked. The responsive design ensures a seamless experience across various devices, whether you're playing on your desktop or enjoying a few hands on your mobile phone.
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+One of the main motive for making this project was to practice my newly learned JavaScript along with HTML and CSS. 
+In this project, I have used HTML5, CSS3 and JavaScript for making the various pages of this project. There were many phases in the making of the project where I failed to even think of how to get to the result but a Big thanks to Scrimba and Per Harald Borgen for always giving me the Right way and showing me the pave for how to debug and get help from online resources.
